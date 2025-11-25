@@ -1,4 +1,4 @@
-<h1 align="center">Olá! estudando sempre para ser um Dev. Fod@!</h1>
+<h1 align="center">Olá! estudando sempre para ser um Dev.</h1>
 
 ###
 
