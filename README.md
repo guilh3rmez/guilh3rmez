@@ -2,6 +2,11 @@
 
 ###
 
+<h1 align="center">Sobre Mim 🚀:</h1>
+<p> Atualmente trabalho como suporte Técnico com um sonho de ser desenvolvedor, aplico e estudo nas horas vagas.
+Dedicado no que faz, sempre correndo atrás dos objetivos.</p>
+
+###
 <br clear="both">
 
 <div align="center">
