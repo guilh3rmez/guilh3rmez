@@ -20,12 +20,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guilh3rmez/guilh3rmez/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
