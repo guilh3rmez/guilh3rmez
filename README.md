@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gui+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Focado+em+React,+Node.js+e+TypeScript." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+o+Gui;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Focado+em+React,+Node.js+e+TypeScript." alt="Typing Effect" />
 </div>
 
 <br>
@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rmez&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="stats do gui" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh3rmez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%23" height="150" alt="linguagens do gui" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rmez&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats do gui" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh3rmez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="linguagens do gui" />
 </div>
 
 <br>
