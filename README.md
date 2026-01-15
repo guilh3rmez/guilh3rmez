@@ -15,8 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rmez&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats do gui" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh3rmez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="linguagens do gui" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilh3rmez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
