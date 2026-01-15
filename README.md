@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gui+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Front-end+Developer+em+forma%C3%A7%C3%A3o;Focado+em+React+e+TypeScript." alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Gui+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Focado+em+React,+Node.js+e+TypeScript." alt="Typing Effect" />
 </div>
 
 <br>
@@ -7,15 +7,15 @@
 <h2 align="center">Sobre Mim 🚀</h2>
 
 <p align="center">
-  Desenvolvedor em formação com um background sólido em resolução de problemas técnicos (troubleshooting). Hoje, dedico 100% do meu foco para migrar de carreira, aplicando minha lógica na construção de interfaces web modernas e funcionais.
+  Desenvolvedor Full Stack em formação com background sólido em resolução de problemas técnicos. Estou migrando de carreira trazendo a lógica de diagnóstico do suporte para a construção de arquiteturas escaláveis, tanto no Front-end quanto no Back-end.
  <br><br>
- ⚡ <b>Stack Atual:</b> Mergulhado no ecossistema React.js e TypeScript.
+ ⚡ <b>Stack Atual:</b> Foco total no ecossistema JavaScript (Node.js, React e TypeScript).
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats do gui" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilh3rmez&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="stats do gui" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh3rmez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%23" height="150" alt="linguagens do gui" />
 </div>
 
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" style="margin: 0 10px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" style="margin: 0 10px;" />
 </div>
 
 <br>
