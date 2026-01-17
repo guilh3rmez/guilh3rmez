@@ -14,12 +14,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilh3rmez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
